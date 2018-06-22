@@ -1,4 +1,5 @@
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 Input-to-State Stability Mapping for Nonlinear Control Systems Using Quantifier Elimination
 ===========================================================================================
 
@@ -18,7 +19,7 @@ https://www.usna.edu/CS/qepcadweb/B/QEPCAD.html
 
 This math is inline $`a^2+b^2=c^2`$.
 
-We consider the one-dimensional system
+We consider the one-dimensional system \.x\.
 ```math
  \dot{x}=-x-\frac{x^2}{10}-x^3+\frac{w}{10}
 ```
