@@ -1,4 +1,4 @@
-[ Example 1 without parameter ]
+[ Example 1 without parameters ]
 (q,p,r,c,d,x,w)
 0
 (E q)(E p)(E r)(E c)(E d)(A x)(A w)

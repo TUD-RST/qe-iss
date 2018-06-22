@@ -1,4 +1,4 @@
-[ Example 1 with free parameter k ]
+[ Example 1 with parameter k (free variable) ]
 (k,q,c,d,x,w)
 1
 (E q)(E c)(E d)(A x)(A w)

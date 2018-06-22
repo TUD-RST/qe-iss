@@ -21,7 +21,7 @@ We consider the one-dimensional system
 ![](img/eqn1.png)  
 with the state *x* and the input *w*. To test the system regard to ISS we use the Lyapunov candidate function *V*(*x*)=*qx²* with *q>0*.
 
-## Detailed ISS Test 
+## Detailed ISS Test without parameters
 
 We use the class \(\mathcal{K}_\infty\) comparison functions
 \[
@@ -48,7 +48,7 @@ QEPCAD script [iss_ex1a.q](src/iss_ex1a.q):
 finish
 ```
 
-## Simplified ISS Test
+## Simplified ISS Test without parameters
 
 A quadratic form with a positive constant or a positive definite matrix, respectively, is always globally positive definite. This allows a simplification of the ISS test:
 
@@ -64,15 +64,19 @@ QEPCAD script [iss_ex1b.q](src/iss_ex1b.q):
 finish
 ```
 
+## Simplified ISS Test with parameter *k*
+
+![](img/eqn2.png)  
+
 # Contents
 
 The [src](src) directory contains the source QEPCAD files listed in the next table.
 
 File | Description
 :--- | :---
-`iss_ex1a.q` | Detailed ISS test without free parameters
-`iss_ex1b.q` | Simplified ISS test without free parameters
-`iss_ex1c.q` | Simplified ISS test with the free parameters *k*
+`iss_ex1a.q` | Detailed ISS test without free variables
+`iss_ex1b.q` | Simplified ISS test without free variables
+`iss_ex1c.q` | Simplified ISS test with the free variable *k* (parameter)
 
 # Licence
 
