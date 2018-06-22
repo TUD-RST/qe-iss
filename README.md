@@ -16,9 +16,9 @@ https://www.usna.edu/CS/qepcadweb/B/QEPCAD.html
 # Example 1
 
 We consider the one-dimensional system
-\[
+```math
  \dot{x}=-x-\frac{x^2}{10}-x^3+\frac{w}{10}
-\]
+```
 with the state \(x\) and the input \(w\). To test the system regard to ISS we use the Lyapunov candidate function
 \[
  V(x)=qx^2\quad\text{with}\quad q>0.
