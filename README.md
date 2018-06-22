@@ -1,7 +1,7 @@
 Input-to-State Stability Mapping for Nonlinear Control Systems Using Quantifier Elimination
 ===========================================================================================
 
-This project contains the *QEPCAD* source files for the verification of nonlienar systems regard to *input-to-state stability* (*ISS*). The project allows the verification of the results presented in the follwing paper:
+This project contains the *QEPCAD* source files for the test of nonlinear systems regard to *input-to-state stability* (*ISS*). The project allows the verification of the results presented in the follwing paper:
 
 Voßwinkel, R.; Röbenack, K.; Bajcinca, N.:  
 *Input-to-State Stability Mapping for Nonlinear Control Systems Using Quantifier Elimination*.  
@@ -9,7 +9,7 @@ European Control Conference (ECC), Limassol, Cyprus, June 12-15, 2018, pp. 906-9
 
 # Prerequisites
 
-You need to install the program **QEPCAD B**, which is a version of **QEPCAD** (*Quantifier Elimination by Partial Cylindrical Algebraic Decomposition*). The package is contained in the repositories of typical Linux distributions. Alternatively, QEPCAD B can be installed the source code:
+You need to install the program *QEPCAD B*, which is a version of *QEPCAD* (*Quantifier Elimination by Partial Cylindrical Algebraic Decomposition*). The package is contained in the repositories of typical Linux distributions. Alternatively, QEPCAD B can be installed from the source code:
 
 https://www.usna.edu/CS/qepcadweb/B/QEPCAD.html
 
