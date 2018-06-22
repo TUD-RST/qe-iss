@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 Input-to-State Stability Mapping for Nonlinear Control Systems Using Quantifier Elimination
 ===========================================================================================
 
@@ -14,6 +15,8 @@ You need to install the program *QEPCAD B*, which is a version of *QEPCAD* (*Qua
 https://www.usna.edu/CS/qepcadweb/B/QEPCAD.html
 
 # Example 1
+
+This math is inline $`a^2+b^2=c^2`$.
 
 We consider the one-dimensional system
 ```math
