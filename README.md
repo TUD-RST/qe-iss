@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 Input-to-State Stability Mapping for Nonlinear Control Systems Using Quantifier Elimination
 ===========================================================================================
 
